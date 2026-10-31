@@ -2,6 +2,8 @@
 
 **Python developer focused on Telegram bots, automation and AI agents.**
 
+**Website:** [shubhranillayek.github.io](https://shubhranillayek.github.io/)
+
 I'm [Shubhranil Layek (@shubhranillayek)](https://github.com/shubhranillayek). I build Python tools for automated workflows and tool-using AI agents, alongside browser apps built with JavaScript, HTML and CSS.
 
 ## Selected projects
