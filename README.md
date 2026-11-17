@@ -20,11 +20,17 @@ I'm [Shubhranil Layek (@shubhranillayek)](https://github.com/shubhranillayek), a
 - [Play Tic-Tac-Toe](https://shubhranillayek.github.io/tic-tac-toe/)
 - [Open WeatherNow](https://shubhranillayek.github.io/stunning-weather-app/)
 
-## Areas of focus
+## What I build
 
-- **Telegram automation:** command-driven bots, scheduled delivery and persistent schedules.
-- **Python agent tooling:** tool registration, agent loops and conversation buffers.
-- **Frontend development:** responsive browser apps and public API integrations.
+- **AI chatbot development:** Telegram bots, WhatsApp automation, web chatbots, AI-powered assistants and API integrations.
+- **Automation systems:** Python scripting, browser automation, web scraping, scheduled workflows and third-party API orchestration.
+- **AI agent development:** OpenAI and Gemini integrations, tool-calling systems, agent execution loops, computer automation and conversational memory.
+- **Telegram products:** price-tracking bots for Amazon, Flipkart, Myntra and AJIO; media downloader bots, referral systems and utility bots.
+- **Affiliate marketing tools:** product discovery, price monitoring, deal aggregation, Amazon affiliate automation and automated content distribution.
+- **Web development:** responsive SaaS dashboards, custom frontend interfaces, JavaScript applications, API-connected web apps and interactive browser games.
+- **Marketing automation:** social media automation, lead generation, business outreach, promotional campaigns and Telegram channel growth systems.
+- **Cybersecurity and data tooling:** Python-based information tools, API-driven data collection, automation utilities and security-related experimentation.
+- **E-commerce technology:** product research, trending product discovery, price comparison, Shopify customization and affiliate-oriented tools.
 
 ## Frequently asked questions
 
