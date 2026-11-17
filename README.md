@@ -4,7 +4,7 @@
 
 **Website:** [shubhranillayek.github.io](https://shubhranillayek.github.io/)
 
-I'm [Shubhranil Layek (@shubhranillayek)](https://github.com/shubhranillayek). I build Python tools for automated workflows and tool-using AI agents, alongside browser apps built with JavaScript, HTML and CSS.
+I'm [Shubhranil Layek (@shubhranillayek)](https://github.com/shubhranillayek), a Python developer based in Durgapur, West Bengal, India. I build Python tools for automated workflows and tool-using AI agents, alongside browser apps built with JavaScript, HTML and CSS. I'm open to freelance projects and collaborations involving Python automation, Telegram bots and AI agents.
 
 ## Selected projects
 
@@ -44,3 +44,5 @@ Shubhranil Layek is the developer behind [@shubhranillayek](https://github.com/s
 
 - GitHub: [@shubhranillayek](https://github.com/shubhranillayek)
 - Email: [subhralayek7@gmail.com](mailto:subhralayek7@gmail.com)
+- Instagram: [@nil.pyc](https://www.instagram.com/nil.pyc/)
+- Location: Durgapur, West Bengal, India
