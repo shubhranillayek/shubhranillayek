@@ -2,7 +2,7 @@
 
 **Python developer focused on Telegram bots, automation and AI agents.**
 
-**Website:** [shubhranillayek.github.io](https://shubhranillayek.github.io/)
+**Website:** [shubhranillayek.github.io](https://shubhranillayek.github.io/) · **Blog:** [shubhranillayek.github.io/blog](https://shubhranillayek.github.io/blog/)
 
 I'm [Shubhranil Layek (@shubhranillayek)](https://github.com/shubhranillayek), a Python developer based in Durgapur, West Bengal, India. I build Python tools for automated workflows and tool-using AI agents, alongside browser apps built with JavaScript, HTML and CSS. I'm open to freelance projects and collaborations involving Python automation, Telegram bots and AI agents.
 
